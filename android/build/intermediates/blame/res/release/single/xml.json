@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/node_modules/react-native-push-notification/android/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/node_modules/react-native-push-notification/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/android/C:\\Users\\FD\\Documents\\4info-mobile-app\\node_modules\\react-native-push-notification\\android\\build\\intermediates\\res\\merged\\release\\xml\\preferences.xml",
+        "source": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/android/C:\\Users\\FD\\Documents\\4info-mobile-app\\node_modules\\react-native-push-notification\\android\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.55.4\\res\\xml\\preferences.xml"
+    }
+]

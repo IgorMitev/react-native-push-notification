@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/android/C:\\Users\\FD\\Documents\\4info-mobile-app\\node_modules\\react-native-push-notification\\android\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/android/C:\\Users\\FD\\Documents\\4info-mobile-app\\node_modules\\react-native-push-notification\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/node_modules/react-native-push-notification/android/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/node_modules/react-native-push-notification/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/android/C:\\Users\\FD\\Documents\\4info-mobile-app\\node_modules\\react-native-push-notification\\android\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/android/C:\\Users\\FD\\Documents\\4info-mobile-app\\node_modules\\react-native-push-notification\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/android/C:\\Users\\FD\\Documents\\4info-mobile-app\\node_modules\\react-native-push-notification\\android\\build\\intermediates\\res\\merged\\release\\anim\\catalyst_slide_up.xml",
+        "source": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/android/C:\\Users\\FD\\Documents\\4info-mobile-app\\node_modules\\react-native-push-notification\\android\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.55.4\\res\\anim\\catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/android/C:\\Users\\FD\\Documents\\4info-mobile-app\\node_modules\\react-native-push-notification\\android\\build\\intermediates\\res\\merged\\release\\anim\\catalyst_push_up_in.xml",
+        "source": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/android/C:\\Users\\FD\\Documents\\4info-mobile-app\\node_modules\\react-native-push-notification\\android\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.55.4\\res\\anim\\catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/android/C:\\Users\\FD\\Documents\\4info-mobile-app\\node_modules\\react-native-push-notification\\android\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/android/C:\\Users\\FD\\Documents\\4info-mobile-app\\node_modules\\react-native-push-notification\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/android/C:\\Users\\FD\\Documents\\4info-mobile-app\\node_modules\\react-native-push-notification\\android\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/android/C:\\Users\\FD\\Documents\\4info-mobile-app\\node_modules\\react-native-push-notification\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/node_modules/react-native-push-notification/android/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/node_modules/react-native-push-notification/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/android/C:\\Users\\FD\\Documents\\4info-mobile-app\\node_modules\\react-native-push-notification\\android\\build\\intermediates\\res\\merged\\release\\anim\\catalyst_fade_in.xml",
+        "source": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/android/C:\\Users\\FD\\Documents\\4info-mobile-app\\node_modules\\react-native-push-notification\\android\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.55.4\\res\\anim\\catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/node_modules/react-native-push-notification/android/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/node_modules/react-native-push-notification/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/android/C:\\Users\\FD\\Documents\\4info-mobile-app\\node_modules\\react-native-push-notification\\android\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/android/C:\\Users\\FD\\Documents\\4info-mobile-app\\node_modules\\react-native-push-notification\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/android/C:\\Users\\FD\\Documents\\4info-mobile-app\\node_modules\\react-native-push-notification\\android\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/android/C:\\Users\\FD\\Documents\\4info-mobile-app\\node_modules\\react-native-push-notification\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/android/C:\\Users\\FD\\Documents\\4info-mobile-app\\node_modules\\react-native-push-notification\\android\\build\\intermediates\\res\\merged\\release\\anim\\catalyst_slide_down.xml",
+        "source": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/android/C:\\Users\\FD\\Documents\\4info-mobile-app\\node_modules\\react-native-push-notification\\android\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.55.4\\res\\anim\\catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/android/C:\\Users\\FD\\Documents\\4info-mobile-app\\node_modules\\react-native-push-notification\\android\\build\\intermediates\\res\\merged\\release\\anim\\catalyst_push_up_out.xml",
+        "source": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/android/C:\\Users\\FD\\Documents\\4info-mobile-app\\node_modules\\react-native-push-notification\\android\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.55.4\\res\\anim\\catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/node_modules/react-native-push-notification/android/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/node_modules/react-native-push-notification/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/node_modules/react-native-push-notification/android/build/intermediates/res/merged/release/anim/catalyst_slide_down.xml",
+        "source": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/node_modules/react-native-push-notification/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/node_modules/react-native-push-notification/android/build/intermediates/res/merged/release/anim/catalyst_slide_up.xml",
+        "source": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/node_modules/react-native-push-notification/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/node_modules/react-native-push-notification/android/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/node_modules/react-native-push-notification/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/node_modules/react-native-push-notification/android/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/node_modules/react-native-push-notification/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/node_modules/react-native-push-notification/android/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/node_modules/react-native-push-notification/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/node_modules/react-native-push-notification/android/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/node_modules/react-native-push-notification/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/node_modules/react-native-push-notification/android/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/node_modules/react-native-push-notification/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/node_modules/react-native-push-notification/android/build/intermediates/res/merged/release/anim/catalyst_fade_in.xml",
+        "source": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/node_modules/react-native-push-notification/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/node_modules/react-native-push-notification/android/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/node_modules/react-native-push-notification/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/android/C:\\Users\\FD\\Documents\\4info-mobile-app\\node_modules\\react-native-push-notification\\android\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/android/C:\\Users\\FD\\Documents\\4info-mobile-app\\node_modules\\react-native-push-notification\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/android/C:\\Users\\FD\\Documents\\4info-mobile-app\\node_modules\\react-native-push-notification\\android\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/android/C:\\Users\\FD\\Documents\\4info-mobile-app\\node_modules\\react-native-push-notification\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/android/C:\\Users\\FD\\Documents\\4info-mobile-app\\node_modules\\react-native-push-notification\\android\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/android/C:\\Users\\FD\\Documents\\4info-mobile-app\\node_modules\\react-native-push-notification\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/node_modules/react-native-push-notification/android/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/node_modules/react-native-push-notification/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/android/C:\\Users\\FD\\Documents\\4info-mobile-app\\node_modules\\react-native-push-notification\\android\\build\\intermediates\\res\\merged\\release\\anim\\catalyst_fade_out.xml",
+        "source": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/android/C:\\Users\\FD\\Documents\\4info-mobile-app\\node_modules\\react-native-push-notification\\android\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.55.4\\res\\anim\\catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/node_modules/react-native-push-notification/android/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/node_modules/react-native-push-notification/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/node_modules/react-native-push-notification/android/build/intermediates/res/merged/release/anim/catalyst_fade_out.xml",
+        "source": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/node_modules/react-native-push-notification/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/android/C:\\Users\\FD\\Documents\\4info-mobile-app\\node_modules\\react-native-push-notification\\android\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/android/C:\\Users\\FD\\Documents\\4info-mobile-app\\node_modules\\react-native-push-notification\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    }
+]

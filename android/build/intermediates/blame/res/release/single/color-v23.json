@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/node_modules/react-native-push-notification/android/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/node_modules/react-native-push-notification/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/android/C:\\Users\\FD\\Documents\\4info-mobile-app\\node_modules\\react-native-push-notification\\android\\build\\intermediates\\res\\merged\\release\\color-v23\\abc_color_highlight_material.xml",
+        "source": "/Applications/MAMP/htdocs/FD/4Info/mobileApp/android/C:\\Users\\FD\\Documents\\4info-mobile-app\\node_modules\\react-native-push-notification\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color-v23\\abc_color_highlight_material.xml"
+    }
+]
